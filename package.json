@@ -5,7 +5,7 @@
   "author": "Martín Triay <martriay@gmail.com>",
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "chart.js": "^2.7.0",
+    "chart.js": "^2.9.4",
     "ethereumjs-testrpc": "^6.0.3",
     "moment": "^2.19.1",
     "react": "^16.0.0",
